@@ -1,1 +1,1 @@
-# language_detection
+Welcome to the Language Detection Project! This project focuses on building a language detection model using machine learning techniques. The goal of this project is to accurately predict the language of a given text input. The model is trained on a dataset obtained from Kaggle( https://www.kaggle.com/datasets/basilb2s/language-detection ), and various Python libraries like scikit-learn, pandas, numpy, and string were utilized to preprocess the data and train the final predictive model.
